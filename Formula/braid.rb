@@ -2,7 +2,7 @@ class Braid < Formula
   desc "GitHub working memory for local coding agents"
   homepage "https://github.com/xiaoland/braid"
   url "https://github.com/xiaoland/braid/releases/download/v0.1.0/braid-v0.1.0-aarch64-apple-darwin.tar.gz"
-  sha256 "35ef15992dd1ef801f914d800750ee10e65d3bff95860aed3cbc6f241ebafaad"
+  sha256 "8af215e64c8b0c499ef546c0a9019531e290117f3fd167a6c2c9b0d25c70e582"
   license "MIT"
 
   depends_on arch: :arm64
