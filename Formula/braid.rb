@@ -9,7 +9,7 @@ class Braid < Formula
   depends_on macos: :ventura
 
   def install
-    bin.install "braid-v0.1.0-aarch64-apple-darwin/bin/braid"
+    bin.install "bin/braid"
   end
 
   test do
